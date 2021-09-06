@@ -1,5 +1,5 @@
 - :desktop_computer: Coding for NEVER (srsly)
-- :earth_asia: Lives in India
+- :india: Lives in India
 - :first_quarter_moon_with_face: Loves to watch movies, read books, listen music
 ---
 [<img src='youtube.png' width='100'>](https://www.youtube.com/channel/UCZj5IuWb7oIkpzd6OfIczVg)
